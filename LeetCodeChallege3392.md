@@ -69,4 +69,3 @@ var countSubarrays = function(nums) {
 
     return count;
 };
-  ```js
