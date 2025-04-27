@@ -47,7 +47,11 @@ Given an integer array `nums`, return the **number of subarrays of length 3** su
  * 
  * @param {number[]} nums - The input array of integers
  * @return {number} - The count of valid subarrays
+
  */
+
+
+   ```js
 var countSubarrays = function(nums) {
     let count = 0;
     
@@ -65,3 +69,4 @@ var countSubarrays = function(nums) {
 
     return count;
 };
+  ```js
